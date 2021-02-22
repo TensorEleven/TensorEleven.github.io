@@ -1,2 +1,4 @@
 # cv_ratefiarison_harivony
-simple resume made with HTML/CSS
+A simple resume made with HTML/CSS
+link : https://tensoreleven.github.io/cv_ratefiarison_harivony/
+
